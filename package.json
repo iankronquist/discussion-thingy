@@ -1,5 +1,5 @@
 {
-  "name": "application-name",
+  "name": "Gadfly",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
     "ejs":"*",
     "socket.io":"0.9",
     "lodash":"*",
-    "mongoose":"*",
-    "neo4j":"*"
+	"mysql":"2.4.1",
+	"sequelize":"1.7.9"
     }
 }
