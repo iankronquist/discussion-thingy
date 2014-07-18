@@ -1,0 +1,9 @@
+{
+	"db" : {
+		"dialect": "mysql",
+		"name":"gadflydb",
+		"username": "admin",
+		"password": "password",
+		"port": "3306"
+	}
+}
