@@ -10,6 +10,8 @@
     "ejs":"*",
     "socket.io":"0.9",
     "lodash":"*",
+	"passport":"1.0.0",
+	"passport-oauth":"1.0.0",
 	"mysql":"2.4.1",
 	"sequelize":"1.7.9"
     }
